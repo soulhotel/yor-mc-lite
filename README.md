@@ -45,3 +45,9 @@ To have it show up in your applications list and searches
   - trim length (from start or end)
   - flip-horizontally/mirror media
   - remove metadata
+
+
+## Other
+
+- See a [YT-DLP Tool](https://github.com/soulhotel/yor-ytdlp) (script) for custom outputs, batch installs and easibility
+- See [./starterfiles](https://github.com/soulhotel/starterfiles). My personal collection of scripts and resources
