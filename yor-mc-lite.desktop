@@ -7,4 +7,4 @@ Exec="/home/user/yor-mc-lite/yor-mc-lite.sh"
 Icon=video-player
 Terminal=true
 Categories=Utility;
-Name[en_US]=yor-mc-lite.desktop
+Name[en_US]=yor-mc-lite
