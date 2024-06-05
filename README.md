@@ -31,3 +31,9 @@ git clone https://github.com/soulhotel/yor-mc-lite.git
 cd yor-mc-lite
 chmod +x yor-mc-lite.sh
 ```
+
+To have it show up in your applications list and searches
+- place the .desktop file in the appropriate directory, usually `/home/user/.local/share/applications`.
+- If you place the script somewhere other than `~/yor-mc-lite/` then open the .desktop file and make sure the Exec path is set accordlingly.
+
+![2024-06-05_02-07](https://github.com/soulhotel/yor-mc-lite/assets/155501797/d94d9249-a6b7-4003-b7ca-e04adf440bd5)
