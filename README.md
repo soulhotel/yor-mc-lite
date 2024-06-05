@@ -37,3 +37,11 @@ To have it show up in your applications list and searches
 - If you place the script somewhere other than `~/yor-mc-lite/` then open the .desktop file and make sure the Exec path is set accordlingly.
 
 ![2024-06-05_02-07](https://github.com/soulhotel/yor-mc-lite/assets/155501797/d94d9249-a6b7-4003-b7ca-e04adf440bd5)
+
+## Todo
+
+###### todo list for myself when i find the time to
+- Additional options to:
+  - trim length (from start or end)
+  - flip-horizontally/mirror media
+  - remove metadata
