@@ -12,9 +12,9 @@ You can review the ffmpeg log, and navigate between the Main Menu to start over 
 
 ## See it in action
 
-https://github.com/soulhotel/yor-mc-lite/assets/155501797/7390008f-d11f-4cf1-b0b7-ea659aba96ec
+https://github.com/soulhotel/yor-mc-lite/assets/155501797/d80cb9cb-5229-472a-aa12-a15b83ffcc56
 
-###### this video was downsized with yor-mc-lite (to meet github filesize standard).
+###### this video was downsized using yor-mc-lite (to meet github filesize standard).
 
 ## Usage
 
