@@ -4,7 +4,7 @@
 
 ## Brief Description
 
-This tool is a simple light weight Bash script that utilizes the FFMPEG library. It gives the user very easy 1-2-3 steps to convert different media files (gif,mp4,mkv,webm,webp) to different types with different formats and different flavors.
+This tool is a simple & light weight Bash script that utilizes the FFMPEG library. It gives the user very easy 1-2-3 steps to convert different media files (gif,mp4,mkv,webm,webp) to different types with different formats and different flavors.
 
 The script can be run in any directory, you can even **drag & drop** your media file into the script and it will detect it!
 
