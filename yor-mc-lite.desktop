@@ -3,7 +3,7 @@
 Version=1.0
 Type=Application
 Name=Media Conversion Tool
-Exec="/home/user/yor-mc-lite/yor-mc-lite.sh"
+Exec="~/yor-mc-lite/yor-mc-lite.sh"
 Icon=video-player
 Terminal=true
 Categories=Utility;
