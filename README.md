@@ -1,6 +1,6 @@
 ## Your very own Media Conversion Tool (lite)
 
-Limitations: The *lite* tag indicates the simplicity of the tool. It is a one at a time operation, meant to give the user easy 1,2,3 steps to get their desired outcome. Due to the nature of its simplicity - options are limited to about 20. But the script is well structured, about 200 lines of code, it can be easily forked and modified to fully utilize the power of FFMPEG.
+###### Limitations: The *lite* tag indicates the simplicity of the tool. It is a one at a time operation, meant to give the user easy 1,2,3 steps to get their desired outcome. Due to the nature of its simplicity - options are limited to about 20. But the script is well structured, about 200 lines of code, it can be easily forked and modified to fully utilize the power of FFMPEG.
 
 ## Brief Description
 
@@ -18,7 +18,16 @@ https://github.com/soulhotel/yor-mc-lite/assets/155501797/7390008f-d11f-4cf1-b0b
 
 ## Usage
 
-- Make the script executable `chmod +x yor-mc-lite.sh`
-- Drag your file in (or type the file path)
+- Git clone this repo or download the source above
+- Make the script an executable then run it
+- Drag a file in, or type the file path
 - Make your choices
 - Profit
+
+```
+git clone https://github.com/soulhotel/yor-mc-lite.git
+```
+```
+cd yor-mc-lite
+chmod +x yor-mc-lite.sh
+```
